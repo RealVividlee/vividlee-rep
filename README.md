@@ -11,7 +11,7 @@
 
 Tailscale is a VPN that connects all users as if they were on the same Local Area Network (LAN). It is crucial to follow these security recommendations to ensure the safety of your PC.
 
-### Security Recommendations
+## Security Recommendations
 
 As the owner of the Tailnet, I can connect to your PC via SSH. To enhance your security, please follow these steps:
 
