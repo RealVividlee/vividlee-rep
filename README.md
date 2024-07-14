@@ -3,7 +3,7 @@
 
 ## How to Set Up Tailscale for Use with My Servers
 
-1. Use my link and download Tailscale for Windows from(https://login.tailscale.com/uinv/i3f12db3c52a4f6f6).
+1. Use my link and download Tailscale for Windows from(https://login.tailscale.com/uinv/i2aaf11e47d85f85c).
 2. Log in using your Google account and click "Connect".
 3. Run the downloaded file and allow any prompts from Windows Defender.
 
