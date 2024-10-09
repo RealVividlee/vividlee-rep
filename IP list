@@ -1,5 +1,12 @@
 You can connect to any game server using the following IP addresses:
 
+For game server access:
+worldunited
+worldunited.tailfe174b.ts.net
+fd7a:115c:a1e0::fa01:2d2a       (IPv6)
+100.98.45.42       (IPv4)
+
+For utility access:
 vividlee-server
 vividlee-server.tailfe174b.ts.net
 fd7a:115c:a1e0::8701:7651      (IPv6)
